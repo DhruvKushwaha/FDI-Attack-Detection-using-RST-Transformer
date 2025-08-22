@@ -37,7 +37,7 @@ source venv/bin/activate
 ```
 ## Install the required packages
 ```
-pip install -r python/requirements.txt
+pip install -r requirements.txt
 ```
 ## Set up the MATLAB Environment:
 Open MATLAB.
