@@ -10,7 +10,7 @@ MATLAB version R2020b Matpower 8.1.
 
 Python version 3.12 
 
-environment.txt file is included.
+requirements.txt file is included.
 
 # Setup Instructions
 Clone the repository:
